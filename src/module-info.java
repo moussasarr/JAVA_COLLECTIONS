@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author NEWOWNER
+ *
+ */
+module myProject {
+}
