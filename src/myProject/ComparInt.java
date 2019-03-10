@@ -1,6 +1,8 @@
 package myProject;
 import java.util.Comparator;
 
+//Implementation of the comparator Interface
+
 class ComparInt implements Comparator<Integer> {
     
 	@Override

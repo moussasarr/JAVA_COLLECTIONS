@@ -9,6 +9,7 @@ public class VectorsVsArrayList {
     //Vector is like an array List 
 	//but that keeps track of the capacity
 	//Capacity automatically doubles when exceeded
+	
 	public static void main(String[] args) {
 		
 		Vector<Integer> v = new Vector<>();

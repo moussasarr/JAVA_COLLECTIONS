@@ -2,6 +2,8 @@ package myProject;
 import java.util.List;
 import java.util.ArrayList;
 
+//ArrayLists, Lists and Comparator with Generic
+
 class Container<T extends Number>{
 	T value;
 	

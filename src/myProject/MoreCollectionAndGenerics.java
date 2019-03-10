@@ -1,9 +1,11 @@
 package myProject;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
+
+//Using Comparator Interface, Collection Sort and Lambdas
+//to sort student List based on grades
 
 public class MoreCollectionAndGenerics {
 
